@@ -1,0 +1,44 @@
+{
+  "organizations": [
+    {
+      "name": "IFRC",
+      "url": "https://www.ifrc.org/contact",
+      "email": "info@ifrc.org"
+    },
+    {
+      "name": "Médecins Sans Frontières",
+      "url": "https://www.msf.org/contact",
+      "email": "press@msf.org"
+    },
+    {
+      "name": "UNICEF",
+      "url": "https://www.unicef.org/contact",
+      "email": "info@unicef.org"
+    },
+    {
+      "name": "World Food Programme",
+      "url": "https://www.wfp.org/contact",
+      "email": "info@wfp.org"
+    },
+    {
+      "name": "Save the Children",
+      "url": "https://www.savethechildren.net/contact",
+      "email": "support@savethechildren.org"
+    },
+    {
+      "name": "CARE International",
+      "url": "https://www.care.org/contact",
+      "email": "info@care.org"
+    },
+    {
+      "name": "Oxfam International",
+      "url": "https://www.oxfam.org/en/contact",
+      "email": "oxfam@oxfam.org"
+    },
+    {
+      "name": "International Rescue Committee",
+      "url": "https://www.rescue.org/contact",
+      "email": "info@rescue.org"
+    }
+  ]
+}
