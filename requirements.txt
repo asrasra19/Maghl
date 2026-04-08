@@ -1,0 +1,13 @@
+requests
+schedule
+pytz
+cryptography
+flask
+smtplib
+email
+os
+datetime
+time
+sqlite3
+uuid
+json
